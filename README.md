@@ -5,5 +5,5 @@ Some cached repos
 1. Go to folder
 2. Run `rpm -Uvh *.rpm`
 
-## APT Install
+## DPKG Install
 To Do.
